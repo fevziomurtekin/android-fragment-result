@@ -1,2 +1,5 @@
-# android-fragment-result
-Basic fragment result application.
+# Android Fragment Result
+
+
+## Medium Link
+
